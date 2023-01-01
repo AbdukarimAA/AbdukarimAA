@@ -1,5 +1,5 @@
 ### Hello there, my name is Abdukarim! 👋
-- 👀 I’m interested in React, TypeScript, NextJS, NodeJS, Express
+- 👀 I’m interested in React, TypeScript, NodeJS, Express
 - 👯 I’m looking to collaborate on the same stack as were listed above
 - 🔭 I’m currently working on my "Online-theater" application on MERN stack
 - 📫 How to reach me: https://t.me/Abdukarim_SF
