@@ -2,7 +2,8 @@
 - 🌱 I’m currently learning React, TypeScript, NodeJS, Express
 - 👯 I’m looking to collaborate on the same stack as were listed above
 - 🔭 I’m currently working on my "Online-theater" application on MERN stack
-- 📫 How to reach me: https://icons8.com/icon/63306/telegram-app https://t.me/Abdukarim_SF
+- 📫 How to reach me: ![image](https://user-images.githubusercontent.com/93397997/210176988-f82ce48e-9c69-40bf-b997-f4e580c6a70a.png)
+ https://t.me/Abdukarim_SF
 <!--
 **AbdukarimAA/AbdukarimAA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
