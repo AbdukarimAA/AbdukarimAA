@@ -3,7 +3,6 @@
 - 👯 I’m looking to collaborate on the same stack as were listed above
 - 🔭 I’m currently working on my "Online-theater" application on MERN stack
 - 📫 How to reach me: https://t.me/Abdukarim_SF
- ![image](https://user-images.githubusercontent.com/93397997/210177008-d0d0b855-314f-4640-a4cb-7b312444ea8d.png)
 
 <!--
 **AbdukarimAA/AbdukarimAA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
